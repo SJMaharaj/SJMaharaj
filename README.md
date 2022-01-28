@@ -29,7 +29,7 @@ Master's Level Aeronautical Engineering graduate (MEng) from the University of t
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJMaharaj&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJMaharaj&layout=compact)](https://github.com/SJMaharaj/github-readme-stats)
 
 ---
 
