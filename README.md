@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SJMaharaj.visitor-badge)
 I'm Sonal Maharaj!
 
 Master's Level Aeronautical Engineering graduate (MEng) from the University of the Witwatersrand in South Africa.
