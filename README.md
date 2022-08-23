@@ -12,19 +12,10 @@ Master's Level Aeronautical Engineering graduate (MEng) from the University of t
 ---
 
 ### I’m currently learning
-- Python
-- Data Analysis with pandas and mySQL
-- HTML5 and CSS3
 - Javascript
----
-
-### Future areas I would like to learn about
-- Machine learning (Tensorflow)
-- Solidity
-- Bootstrap 
-- React
-- Redux
-- jQuery
+- Typescript
+- Reactjs
+- Nodejs
 ---
 
 ### Stats
